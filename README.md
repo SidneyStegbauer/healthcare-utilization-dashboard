@@ -43,6 +43,7 @@ SQL techniques demonstrated include:
 ## Tableau Dashboard
 
 An interactive Tableau dashboard was developed to visualize key hospital utilization and financial metrics.
+![Hospital Analytics Dashboard](hospital-analytics-dashboard.png)
 
 The dashboard includes:
 
