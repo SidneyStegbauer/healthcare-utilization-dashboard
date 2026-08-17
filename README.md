@@ -1,4 +1,4 @@
-# Healthcare Utilization & Cost Analysis
+## Healthcare Utilization & Cost Analysis
 
 ## Project Overview
 
@@ -61,8 +61,9 @@ The dashboard includes:
 
 ## Repository Contents
 
-- `Healthcare_analysis.sql` — SQL queries used for healthcare utilization and cost analysis
+- `healthcare_analysis.sql` — SQL queries used for healthcare utilization and cost analysis
 - `README.md` — Project documentation
+- - `Dashboard 1.png` — Preview image of the Tableau dashboard
 
 ## Tableau Visualization
 
