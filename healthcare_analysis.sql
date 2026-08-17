@@ -1,5 +1,5 @@
 -- ============================================================
--- Hospital Healthcare Utilization & Cost Analysis
+-- Hospital Utilization & Cost Analysis
 -- Tools: SQLite
 -- Project: Healthcare Utilization Dashboard
 -- ============================================================
