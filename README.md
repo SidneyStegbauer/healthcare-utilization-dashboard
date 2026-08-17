@@ -67,7 +67,7 @@ The dashboard includes:
 
 Interactive Tableau Public dashboard:
 
-**[View the Healthcare Utilization Dashboard on Tableau Public](TABLEAU-LINK-HERE)**
+**[View the Healthcare Utilization Dashboard on Tableau Public](https://public.tableau.com/views/HospitalAnalyticsDashboard_17869304139480/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## Skills Demonstrated
 
